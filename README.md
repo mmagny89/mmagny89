@@ -6,7 +6,7 @@ J'aime les équipes où l'humain passe avant, et les projets menés au contact d
 [![mmagny.fr](https://img.shields.io/website?url=https%3A%2F%2Fmmagny.fr&label=mmagny.fr&up_message=en%20ligne&down_message=hors%20ligne)](https://mmagny.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mylène_Magny-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myl%C3%A8ne-magny-26943b146/)
 
-Mon dossier complet (parcours, compétences, une trentaine de projets détaillés) : **<https://mmagny.fr>**
+Mon dossier complet (parcours, compétences, 27 projets détaillés) : **<https://mmagny.fr>**
 
 ## Trois écosystèmes, à l'aise avec chacun
 
