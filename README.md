@@ -29,9 +29,8 @@ Mon terrain d'essai pour Symfony 8, FrankenPHP, PostgreSQL et l'intégration d'I
 |---|---|---|
 | [**Niout**](https://github.com/mmagny89/niout) | Jeu de gestion dans l'Égypte du Nouvel Empire, sans attente en temps réel | [bêta](https://niout.mmagny.fr) |
 | [**Chauffage**](https://github.com/mmagny89/chauffage) | Dit quand chauffer et quand couper sur quinze jours, avec les prévisions Open-Meteo | [en ligne](https://chauffage.mmagny.fr/) |
-| [**Envie de Jouer**](https://github.com/mmagny89/edj) | Site d'une association de jeux : événements et adhésion en ligne | [en ligne](https://edj.mmagny.fr/) |
+| [**Envie de Jouer**](https://github.com/mmagny89/edj) | Site d'une association de jeux : événements et adhésion en ligne | préproduction |
 | [**À quoi on joue ?**](https://github.com/mmagny89/aqoj) | Recommandation de jeux de société à partir de l'API BoardGameGeek | en cours |
-| **Le Sens du Jeu** | Comptage des entrées d'un festival de jeux de société, sur tablettes (dépôt privé) | en ligne |
 | **BG TCG** | Jeu de cartes à collectionner bâti sur les données BoardGameGeek (dépôt privé) | [bêta](https://bg-tcg.mmagny.fr/) |
 | [**mmagny.fr**](https://github.com/mmagny89/mmagny) | Mon site CV : statique, nginx, déploiement automatisé, accessibilité WCAG 2.2 AA visée | [en ligne](https://mmagny.fr) |
 
