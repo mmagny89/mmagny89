@@ -23,7 +23,7 @@ un site [La Madeleine](https://mmagny.fr/projets.html#la-madeleine) mis en page 
 
 ## Projets perso
 
-Mon terrain d'essai pour Symfony 8, FrankenPHP, PostgreSQL et l'intégration d'IA. Presque tous sortent de mes jeux de société et de rôle.
+Mon terrain d'essai pour Symfony 8, FrankenPHP, PostgreSQL et l'intégration d'IA. Presque tous sortent de mes jeux de société et de rôle, un autre de l'univers d'un roman.
 
 | Projet | Description | |
 |---|---|---|
@@ -31,6 +31,7 @@ Mon terrain d'essai pour Symfony 8, FrankenPHP, PostgreSQL et l'intégration d'I
 | [**Chauffage**](https://github.com/mmagny89/chauffage) | Dit quand chauffer et quand couper sur quinze jours, avec les prévisions Open-Meteo | [en ligne](https://chauffage.mmagny.fr/) |
 | [**Envie de Jouer**](https://github.com/mmagny89/edj) | Site d'une association de jeux : événements et adhésion en ligne | préproduction |
 | [**À quoi on joue ?**](https://github.com/mmagny89/aqoj) | Recommandation de jeux de société à partir de l'API BoardGameGeek | en cours |
+| [**Omraon**](https://github.com/mmagny89/omraon) | Simulation N-corps et vue 3D du système d'un roman : relativité générale, éphémérides, population, lore. Statique, sans build ni dépendance externe | v1.1.0 |
 | **BG TCG** | Jeu de cartes à collectionner bâti sur les données BoardGameGeek (dépôt privé) | [bêta](https://bg-tcg.mmagny.fr/) |
 | [**mmagny.fr**](https://github.com/mmagny89/mmagny) | Mon site CV : statique, nginx, déploiement automatisé, accessibilité WCAG 2.2 AA visée | [en ligne](https://mmagny.fr) |
 
